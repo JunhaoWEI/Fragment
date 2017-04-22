@@ -113,7 +113,7 @@ public class ItemListDialogFragment extends BottomSheetDialogFragment {
 
         @Override
         public int getItemCount() {
-            Log.i("wjh", mItemCount + "");
+            ／／Log.i("wjh", mItemCount + "");
             return mItemCount;
         }
 
